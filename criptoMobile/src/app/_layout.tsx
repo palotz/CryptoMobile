@@ -7,7 +7,7 @@ export default function Index() {
     </View>
   );
 }
-
+//hoola meiner
 const styles = StyleSheet.create({
   container: {
     flex: 1,
